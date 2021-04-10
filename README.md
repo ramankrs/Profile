@@ -154,6 +154,9 @@ and business, and enable clients to win in this space.
 
 ## 📬 Contact
 
-Email | Phone | LinkedIn
------------- | ------------ | ------------
-raman.k1107@gmail.com | 9591711310 | www.linkedin.com/in/ramankrs/
+Email | Phone
+------------ | ------------
+raman.k1107@gmail.com | 9591711310 
+
+LinkedIn:
+www.linkedin.com/in/ramankrs/
