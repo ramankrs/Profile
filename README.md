@@ -46,9 +46,7 @@ inventories and digital assets to achieve the goals.
 ## 💼 Work Experience 
 
 
-**Digital Marketer**
-🚘 DriveU (Bengaluru, KA)
-Dec, 2019 - Present
+**Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - Present
 
 
 _**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers for
@@ -86,9 +84,7 @@ Marketing, Email Marketing, Native Ads, Content Marketing.
 <br>
 
 
-**Senior Consultant**
-📢 Techmantu Digital (Bengaluru, KA)
-Sep, 2015 – Nov, 2019
+**Senior Consultant** | 📢 Techmantu Digital (Bengaluru, KA) | Sep, 2015 – Nov, 2019
 
 _**Techmantu** is a consultancy which helps businesses succeed with their digital media and marketing initiatives. 
 Techmantu participates in the complex and constantly changing intersection of technology, consumers,
@@ -130,9 +126,7 @@ and business, and enable clients to win in this space._
 
 ## 🎓 Education 
 
-**MBA, Marketing**
-Xavier Institute of Management & Entrepreneurship (Bengaluru, KA)
-Jun, 2013 - May, 2015
+**MBA, Marketing** | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015
 
 - Won 1st prizes at Indus Business Academy and Jyothi Nivas College while representing the institution in the respective management fests in 2014-15.
 - Volunteered for the social work at a rural women empowerment institution in Chaibasa, Jharkhand in 2014. 
@@ -143,9 +137,7 @@ Jun, 2013 - May, 2015
 <br>
 <br>
 
-**B.Tech, Electronics**
-Ambala College of Engineering (Kurukshetra University)
-Jun, 2008 - May, 2012
+**B.Tech, Electronics** | Ambala College of Engineering (Kurukshetra University) | Jun, 2008 - May, 2012
 
 <br>
 <br>
