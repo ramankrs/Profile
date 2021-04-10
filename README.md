@@ -1,7 +1,3 @@
-```markdown
-Last Updated: 10 April 2021
-```
-
 # Raman Kumar
 #### <i> App Marketing / Digital Marketing / 5+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
 
@@ -29,20 +25,18 @@ real estate, education, B2B and product.
 ## 🎯 Core Competency 
 
 01 | **Digital Marketing Strategy**
------------- | ------------
-
 
 - Auditing and analysing the existing marketing stack and strategy.
 - Defining marketing objectives aligned to business objectives.
 - Acquisition and retention strategy to drive MQL, SQL, increasing LTV.
 
 02 | **Media Planning**
------------- | ------------
+
 - Defining a right media mix of earned, paid and owned media, identifying the channels and audience for
 digital promotions and planning the monthly and quarterly media budget.
 
 03 | **Online Marketing Campaigns**
------------- | ------------
+
 - Setting up the intent based campaigns across marketing channels. Data driven optimisation of ad
 inventories and digital assets to achieve the goals.
 <br>
@@ -52,8 +46,9 @@ inventories and digital assets to achieve the goals.
 ## 💼 Work Experience 
 
 
-| **Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - Present | 
-| ------------ | ------------ | ------------ |
+**Digital Marketer**
+🚘 DriveU (Bengaluru, KA)
+Dec, 2019 - Present
 
 
 _**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers for
@@ -91,8 +86,9 @@ Marketing, Email Marketing, Native Ads, Content Marketing.
 <br>
 
 
-| **Senior Consultant** | 📢 Techmantu Digital (Bengaluru, KA) | Sep, 2015 – Nov, 2019 |
-| ------------ | ------------ | ------------ |
+**Senior Consultant**
+📢 Techmantu Digital (Bengaluru, KA)
+Sep, 2015 – Nov, 2019
 
 _**Techmantu** is a consultancy which helps businesses succeed with their digital media and marketing initiatives. 
 Techmantu participates in the complex and constantly changing intersection of technology, consumers,
@@ -134,8 +130,9 @@ and business, and enable clients to win in this space._
 
 ## 🎓 Education 
 
-| **MBA, Marketing** | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015 |
-| ------------ | ------------ | ------------ |
+**MBA, Marketing**
+Xavier Institute of Management & Entrepreneurship (Bengaluru, KA)
+Jun, 2013 - May, 2015
 
 - Won 1st prizes at Indus Business Academy and Jyothi Nivas College while representing the institution in the respective management fests in 2014-15.
 - Volunteered for the social work at a rural women empowerment institution in Chaibasa, Jharkhand in 2014. 
@@ -146,8 +143,9 @@ and business, and enable clients to win in this space._
 <br>
 <br>
 
-| **B.Tech, Electronics** | Ambala College of Engineering (Kurukshetra University) | Jun, 2008 - May, 2012 |
-| ------------ | ------------ | ------------ |
+**B.Tech, Electronics**
+Ambala College of Engineering (Kurukshetra University)
+Jun, 2008 - May, 2012
 
 <br>
 <br>
@@ -158,4 +156,9 @@ and business, and enable clients to win in this space._
 | Email | Phone | LinkedIn |
 | ------------ | ------------ | ------------ |
 [raman.k1107@gmail.com](mailto:raman.k1107@gmail.com) | 9591711310 | [www.linkedin.com/in/ramankrs/](https://www.linkedin.com/in/ramankrs/)
+
+
+```markdown
+Last Updated: 10 April 2021
+```
 
