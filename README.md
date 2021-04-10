@@ -1,14 +1,17 @@
+```markdown
+Last Updated: 10 April 2021
+```
+
 # Raman Kumar
 #### <i> App Marketing / Digital Marketing / 5+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
 
 
 ## 💪 Core Skills 
-```markdown
-Mobile Marketing Analytics and Attribution, User Engagement through Mobile Marketing and Automation, Google Ads,
+
+_Mobile Marketing Analytics and Attribution, User Engagement through Mobile Marketing and Automation, Google Ads,
 Google Analytics, PPC and Banner Ads, SEO, Webmasters, LinkedIn, Facebook, Email Marketing, Segmentation, Shopify,
 Wordpress, Landing Pages, Marketing Communications, Adobe Photoshop, Figma, Third Party Partnerships, Clevertap,
-Playstore Listing, Apple Search Ads, DV360, AppsFlyer
-```
+Playstore Listing, Apple Search Ads, DV360, AppsFlyer_
 <br>
 <br>
 
@@ -25,21 +28,21 @@ real estate, education, B2B and product.
 
 ## 🎯 Core Competency 
 
-**Digital Marketing Strategy** |
------------- |
+01 | **Digital Marketing Strategy**
+------------ | ------------
 
 
 - Auditing and analysing the existing marketing stack and strategy.
 - Defining marketing objectives aligned to business objectives.
 - Acquisition and retention strategy to drive MQL, SQL, increasing LTV.
 
-**Media Planning**  |
------------- |
+02 | **Media Planning**
+------------ | ------------
 - Defining a right media mix of earned, paid and owned media, identifying the channels and audience for
 digital promotions and planning the monthly and quarterly media budget.
 
-**Online Marketing Campaigns** |
------------- |
+03 | **Online Marketing Campaigns**
+------------ | ------------
 - Setting up the intent based campaigns across marketing channels. Data driven optimisation of ad
 inventories and digital assets to achieve the goals.
 <br>
@@ -49,23 +52,23 @@ inventories and digital assets to achieve the goals.
 ## 💼 Work Experience 
 
 
-**Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - Present  
------------- | ------------ | ------------
+| **Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - Present | 
+| ------------ | ------------ | ------------ |
 
-```markdown
-**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers for
+
+_**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers for
 both B2C and B2B. With over 20,00,000 drives complete, 3,00,000 happy customers, and 100+ B2B clients,
-DriveU has developed a sustainable business model with positive unit economics and scalability.
-```
+DriveU has developed a sustainable business model with positive unit economics and scalability._
+<br>
 
-- Mobile Marketing: User engagement using SMS, Push and Email automation.
-- Campaign planning for demand generation and user engagement.
+- **Mobile Marketing**: User engagement using SMS, Push and Email automation.
+- Campaign planning for **demand generation and user engagement**.
 - Third-party media & programmatic partnerships
-- Local and business partnerships for marketing promotions.
+- Local and **business partnerships** for marketing promotions.
 - Communications via blog, email, social media, videos and other mediums.
 - Work with technical, creative & UI/UX teams to oversee the functions and implementation of marketing
 and creative strategy.
-- Real time optimisation of digital marketing program including –CPI, CPC & CPM Ads, Social Media
+- Real time optimisation of digital marketing program including – CPI, CPC & CPM Ads, Social Media
 Marketing, Email Marketing, Native Ads, Content Marketing.
 - Managing customer & partner surveys for feedback, beta testing and profiling.
 
@@ -77,37 +80,35 @@ Marketing, Email Marketing, Native Ads, Content Marketing.
 
 #### Successes
 
-- Contributed to post-covid recovery
+- Contributed to **post-covid recovery**
 - Regular inflow of leads for B2B
-- Increased customer engagement with the product
+- Increased customer engagement
 
 #### Recognitions
 
-- Recognised as "Swiss Army Knife" for all-round contribution to marketing.
+- Recognised as **"Swiss Army Knife"** for all-round contribution to marketing.
 <br>
 <br>
 
 
-**Senior Consultant** | 📢 Techmantu Digital (Bengaluru, KA) | Sep, 2015 – Nov, 2019  
------------- | ------------ | ------------
+| **Senior Consultant** | 📢 Techmantu Digital (Bengaluru, KA) | Sep, 2015 – Nov, 2019 |
+| ------------ | ------------ | ------------ |
 
-```markdown
-**Techmantu** is a consultancy which helps businesses succeed with their digital media and marketing initiatives. 
+_**Techmantu** is a consultancy which helps businesses succeed with their digital media and marketing initiatives. 
 Techmantu participates in the complex and constantly changing intersection of technology, consumers,
-and business, and enable clients to win in this space.
-```
+and business, and enable clients to win in this space._
 
 - Understanding business and marketing objectives of the client.
-- Preparing a roadmap to achieve the digital marketing goals.
-- Analysing the competition landscape and auditing the existing marketing stack.
+- Preparing a **roadmap to achieve the digital marketing goals**.
+- Analysing the **competition landscape** and auditing the existing marketing stack.
 - Preparing the strategy with short term and long term goals.
 - Planning phase wise and timeline based approach for implementation.
 - Work with external & internal technical and creative teams to oversee the functions and implementation of technical and creative strategy.
 - Real time optimisation of digital marketing program including - CPC & CPM Ads, Social Media Marketing, Email Marketing, Native Ads, Content Marketing and Lead Generation.
 - Defining and keeping track of KPIs linked to the marketing programs.
-- Regular meeting with client teams & reporting campaign performance on a weekly and monthly basis.
+- Regular meeting with client teams & **reporting campaign performance** on a weekly and monthly basis.
 - Core member of the consulting team in the company and the client location.
-- Responsible for the overall success of marketing programs as a technical account manager.
+- Responsible for the overall success of marketing programs as a **technical account manager**.
 
 #### Projects
 
@@ -125,7 +126,7 @@ and business, and enable clients to win in this space.
 #### Recognitions
 
 - Won 2 star of the quarter awards for outstanding performance.
-- Selected to conduct a paid digital marketing workshop at Bangalore Design Week 2018.
+- Selected to conduct a paid digital marketing workshop at **Bangalore Design Week 2018**.
 
 <br>
 <br>
@@ -133,8 +134,8 @@ and business, and enable clients to win in this space.
 
 ## 🎓 Education 
 
-MBA, Marketing | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015  
------------- | ------------ | ------------
+| **MBA, Marketing** | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015 |
+| ------------ | ------------ | ------------ |
 
 - Won 1st prizes at Indus Business Academy and Jyothi Nivas College while representing the institution in the respective management fests in 2014-15.
 - Volunteered for the social work at a rural women empowerment institution in Chaibasa, Jharkhand in 2014. 
@@ -145,8 +146,8 @@ MBA, Marketing | Xavier Institute of Management & Entrepreneurship (Bengaluru, K
 <br>
 <br>
 
-**B.Tech, Electronics** | Ambala College of Engineering (Kurukshetra University) | Jun, 2008 - May, 2012  
------------- | ------------ | ------------
+| **B.Tech, Electronics** | Ambala College of Engineering (Kurukshetra University) | Jun, 2008 - May, 2012 |
+| ------------ | ------------ | ------------ |
 
 <br>
 <br>
@@ -154,9 +155,7 @@ MBA, Marketing | Xavier Institute of Management & Entrepreneurship (Bengaluru, K
 
 ## 📬 Contact
 
-Email | Phone
------------- | ------------
-raman.k1107@gmail.com | 9591711310 
+| Email | Phone | LinkedIn |
+| ------------ | ------------ | ------------ |
+[raman.k1107@gmail.com](mailto:raman.k1107@gmail.com) | 9591711310 | [www.linkedin.com/in/ramankrs/](https://www.linkedin.com/in/ramankrs/)
 
-**LinkedIn** <br>
-www.linkedin.com/in/ramankrs/
