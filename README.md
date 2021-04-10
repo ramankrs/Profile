@@ -133,7 +133,7 @@ and business, and enable clients to win in this space.
 
 ## 🎓 Education 
 
-**MBA, Marketing** | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015  
+MBA, Marketing | Xavier Institute of Management & Entrepreneurship (Bengaluru, KA) | Jun, 2013 - May, 2015  
 ------------ | ------------ | ------------
 
 - Won 1st prizes at Indus Business Academy and Jyothi Nivas College while representing the institution in the respective management fests in 2014-15.
@@ -158,5 +158,5 @@ Email | Phone
 ------------ | ------------
 raman.k1107@gmail.com | 9591711310 
 
-LinkedIn:
+**LinkedIn** <br>
 www.linkedin.com/in/ramankrs/
