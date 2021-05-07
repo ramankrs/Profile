@@ -1,5 +1,5 @@
 # Raman Kumar
-#### <i> App Marketing / Digital Marketing / 5+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
+#### <i> Product Marketing / Digital Marketing / 5+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
 
 
 ## 💪 Core Skills 
