@@ -7,7 +7,7 @@
 _Mobile Marketing Analytics and Attribution, User Engagement through Mobile Marketing and Automation, Google Ads,
 Google Analytics, PPC and Banner Ads, SEO, Webmasters, LinkedIn, Facebook, Email Marketing, Segmentation, Shopify,
 Wordpress, Landing Pages, Marketing Communications, Adobe Photoshop, Figma, Third Party Partnerships, Clevertap,
-Playstore Listing, Apple Search Ads, DV360, AppsFlyer_
+Playstore Listing, Apple Search Ads, DV360, AppsFlyer, Market & User Research, Product Design, Wireframing, Product Analytics_
 <br>
 <br>
 
@@ -16,8 +16,9 @@ Playstore Listing, Apple Search Ads, DV360, AppsFlyer_
 
 - 5 Years in handling digital media marketing for the clients spanning into multiple segments such as e-commerce, 
 real estate, education, B2B and product.
-- Currently working as a Digital Marketer on the product side with DriveU.
+- Currently working as a Digital Marketer on the DriveU app.
 - Proficient in digital strategy, media planning and online marketing.
+- Hands-on with product design and product analytics.
 <br>
 <br>
 
