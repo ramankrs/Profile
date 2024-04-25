@@ -1,5 +1,5 @@
 # Raman Kumar
-#### <i> Product Marketing / Digital Marketing / 5+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
+#### <i> B2C Product Marketing / Digital Marketing / 8+ Years Exp <br> Product Management (Duke CE) <br> MBA in Marketing Management (XIME Bangalore)</i>
 
 
 ## 💪 Core Skills 
@@ -14,9 +14,10 @@ Playstore Listing, Apple Search Ads, DV360, AppsFlyer, Market & User Research, P
 
 ## 💼 Career Summary 
 
-- 5 Years in handling digital media marketing for the clients spanning into multiple segments such as e-commerce, 
+- 8+ Years in handling digital media marketing, 360-deg branding campaigns, product marketing
+- Handled 2Cr+ budgets for the clients spanning into multiple segments such as e-commerce, 
 real estate, education, B2B and product.
-- Currently working as a Digital Marketer on the DriveU app.
+- Currently working as a Product Marketer on the DriveU app.
 - Proficient in digital strategy, media planning and online marketing.
 - Hands-on with product design and product analytics.
 <br>
@@ -36,18 +37,36 @@ real estate, education, B2B and product.
 - Defining a right media mix of earned, paid and owned media, identifying the channels and audience for
 digital promotions and planning the monthly and quarterly media budget.
 
-03 | **Online Marketing Campaigns**
+03 | **Online, ATL, BTL, OOH Marketing Campaigns**
 
 - Setting up the intent based campaigns across marketing channels. Data driven optimisation of ad
 inventories and digital assets to achieve the goals.
+- Experience with agencies in handling PR, Events, ATL, BLT and OOH Campaigns - Radio, Cinema, Auto, Bus and Promoters
 <br>
 <br>
 
 
 ## 💼 Work Experience 
 
+**B2C Product Marketer** | 🚘 DriveU (Bengaluru, KA) | June, 2022 - Present
 
-**Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - Present
+
+_**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers, on-demand car wash at doorstep loved by car owners across Indian metro cities. With over 60,00,000 drives complete, 7,50,000 happy customers, 1.75 Million Installs. DriveU has developed a sustainable business model with positive unit economics and scalability._
+<br>
+
+- Worked closely with executive staff on aligning business and marketing strategies for growth.
+- Managed growth & retention strategy, partnerships, events, PR and graphic design functions.
+- Executed data-driven strategies for user acquisition, engagement, and retention.
+- Responsible for GTM, launch and adoption of products with 360° creative campaigns inclusive of ATL, BTL & OOH and digital channels.
+- Achieved 55% growth through brand activation campaigns in 2 metro cities.
+- Managed a budget of USD 300K in the last 12 months.
+- Scaled post-covid business to achieve 150% increase in requests and revenue growth of 32%.
+- Strategic CRM communications with campaigns & offers led to an increase in user retention by 7%.
+- 70+ brand partnerships for brand awareness, planning & execution of high-footfall B2C events
+<br>
+<br>
+
+**Digital Marketer** | 🚘 DriveU (Bengaluru, KA) | Dec, 2019 - June, 2022
 
 
 _**DriveU** is India's largest, most trusted, and technologically advanced provider of on-demand drivers for
